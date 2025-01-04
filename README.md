@@ -48,10 +48,6 @@ result = convert_with_constraints(
 print("Valid Representations:", result)
 ```
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request on the [GitHub repository](https://github.com/AtharvTrivedi21/base_converter).
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
